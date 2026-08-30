@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Ayush Mishra
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=900&color=FABD2F&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ayush+Mishra+%F0%9F%91%8B;B.Tech+CSE+Graduate+%F0%9F%8E%93;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+things+with+Python+%F0%9F%90%8D;Turning+ideas+into+working+code+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 
 ### 🎓 B.Tech CSE Graduate • 🤖 AI & ML Enthusiast • 💻 Developer
 
@@ -155,6 +155,14 @@ An AI-focused project for extracting useful insights from call data and turning 
 
 <p align="center">
 <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shinaycore&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shinaycore/shinaycore/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ---
