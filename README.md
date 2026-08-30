@@ -17,22 +17,22 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="65%" valign="middle" align="center">
 
-- 🐍 Comfortable with **Python, Machine Learning, AI frameworks, and Data Science**
-- ☕ Practicing **DSA with Java**
-- 🤖 Interested in **AI, Machine Learning & Data Science**
-- 🛠️ Love building projects and experimenting with new technologies
-- 💡 Enjoy solving real-world problems through code
-- 📚 Into **books, manga/manhwa & anime**
-- 🎮 Currently obsessed with **Hollow Knight: Silksong**
+🐍 Comfortable with **Python, Machine Learning, AI frameworks, and Data Science**  
+☕ Practicing **DSA with Java**  
+🤖 Interested in **AI, Machine Learning & Data Science**  
+🛠️ Love building projects and experimenting with new technologies  
+💡 Enjoy solving real-world problems through code  
+📚 Into **books, manga/manhwa & anime**  
+🎮 Currently obsessed with **Hollow Knight: Silksong**
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/4YZNYcTybcYTnROykG/giphy.gif" width="260" alt="Anime aesthetic GIF" />
+<img src="https://media1.tenor.com/m/0kEHV6tNTtoAAAAC/anime-frieren.gif" width="260" alt="Frieren anime GIF" />
 
-<sub>🎬 code • coffee • anime • repeat</sub>
+<sub>🌿 Frieren • code • coffee • anime</sub>
 
 </td>
 </tr>
@@ -211,7 +211,7 @@ An AI-focused project for extracting useful insights from call data and turning 
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/2SYqgPxMm2kbVe3y02/giphy.gif" width="420" alt="Anime rooftop aesthetic GIF" />
+<img src="https://media1.tenor.com/m/lyezG3tPrzgAAAAC/anime-frieren.gif" width="420" alt="Frieren anime GIF" />
 
 ### 💬 Random Dev Quote
 
