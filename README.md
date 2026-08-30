@@ -79,9 +79,43 @@ I'm a **Computer Science graduate specializing in AI & Machine Learning**, with 
 
 ## 🚀 Featured Projects
 
-<!-- PINNED_PROJECTS_START -->
-> 📌 Your pinned repositories will appear here automatically.
-<!-- PINNED_PROJECTS_END -->
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 RAG PDF Chat
+
+A multi-PDF conversational **Retrieval-Augmented Generation** web app. Upload documents, index them with ChromaDB, and chat with their contents using an LLM.
+
+**Tech:** `Python` `FastAPI` `LangChain` `ChromaDB` `Docker`
+
+<a href="https://github.com/shinaycore/RAG">🔗 View Repository</a>
+
+</td>
+<td width="33%" valign="top">
+
+### 🧬 IVF Trigger Day Prediction
+
+An educational **machine-learning decision-support project** for predicting whether an IVF trigger is recommended, with reproducible ML pipelines and MLOps tooling.
+
+**Tech:** `Python` `Flask` `DVC` `MLflow` `Feast` `Docker` `Prometheus` `Grafana`
+
+<a href="https://github.com/shinaycore/IVF_Trigger_Day">🔗 View Repository</a>
+
+</td>
+<td width="33%" valign="top">
+
+### 📞 Call Insight
+
+An AI-focused project for extracting useful insights from call data and turning conversations into structured, actionable information.
+
+**Tech:** `Python` `AI/ML`
+
+<a href="https://github.com/shinaycore/Call-Insight">🔗 View Repository</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
