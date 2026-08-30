@@ -30,7 +30,7 @@
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/O0oQygeklvnX2/giphy.gif" width="260" alt="Anime aesthetic animation" />
+<img src="https://media.giphy.com/media/4YZNYcTybcYTnROykG/giphy.gif" width="260" alt="Anime aesthetic GIF" />
 
 <sub>🎬 code • coffee • anime • repeat</sub>
 
@@ -77,7 +77,7 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/FASTAPI-282828?style=for-the-badge&logo=fastapi&logoColor=8EC07C&labelColor=3C3836" />
-<img src="https://img.shields.io/badge/FLASK-282828?style=for-the-badge&logo=flask&logoColor=EBDBB2&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/FLASK-282828?style=for-the-badge&logo=flask&logoColor=EBDBCC&labelColor=3C3836" />
 </p>
 
 ### 🗄️ Databases
@@ -92,7 +92,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/DOCKER-282828?style=for-the-badge&logo=docker&logoColor=83A598&labelColor=3C3836" />
 <img src="https://img.shields.io/badge/GIT-282828?style=for-the-badge&logo=git&logoColor=FB4934&labelColor=3C3836" />
-<img src="https://img.shields.io/badge/GITHUB-282828?style=for-the-badge&logo=github&logoColor=EBDBB2&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/GITHUB-282828?style=for-the-badge&logo=github&logoColor=EBDBCC&labelColor=3C3836" />
 <img src="https://img.shields.io/badge/AZURE-282828?style=for-the-badge&logo=microsoftazure&logoColor=83A598&labelColor=3C3836" />
 <img src="https://img.shields.io/badge/RENDER-282828?style=for-the-badge&logo=render&logoColor=8EC07C&labelColor=3C3836" />
 <img src="https://img.shields.io/badge/GRAFANA-282828?style=for-the-badge&logo=grafana&logoColor=FE8019&labelColor=3C3836" />
@@ -136,7 +136,7 @@ A multi-PDF conversational **Retrieval-Augmented Generation** web app. Upload do
 An educational **machine-learning decision-support project** for predicting whether an IVF trigger is recommended, with reproducible ML pipelines and MLOps tooling.
 
 <img src="https://img.shields.io/badge/Python-282828?style=flat-square&logo=python&logoColor=FABD2F&labelColor=3C3836" />
-<img src="https://img.shields.io/badge/Flask-282828?style=flat-square&logo=flask&logoColor=EBDBB2&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/Flask-282828?style=flat-square&logo=flask&logoColor=EBDBCC&labelColor=3C3836" />
 <img src="https://img.shields.io/badge/DVC-282828?style=flat-square&logo=dvc&logoColor=83A598&labelColor=3C3836" />
 <img src="https://img.shields.io/badge/MLflow-282828?style=flat-square&logo=mlflow&logoColor=8EC07C&labelColor=3C3836" />
 
@@ -211,7 +211,7 @@ An AI-focused project for extracting useful insights from call data and turning 
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/O0oQygeklvnX2/giphy.gif" width="420" alt="Anime aesthetic animation" />
+<img src="https://media.giphy.com/media/2SYqgPxMm2kbVe3y02/giphy.gif" width="420" alt="Anime rooftop aesthetic GIF" />
 
 ### 💬 Random Dev Quote
 
