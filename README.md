@@ -1,8 +1,16 @@
+<div align="center">
+
 # 👋 Hey, I'm Ayush Mishra
 
-### 🎓 B.Tech CSE Graduate | 🤖 AI & ML Enthusiast | 💻 Developer
+### 🎓 B.Tech CSE Graduate • 🤖 AI & ML Enthusiast • 💻 Developer
 
-I'm a **Computer Science graduate specializing in AI & Machine Learning**, with a strong interest in building practical, real-world applications.
+*Building practical things with code, occasionally wondering why they work.*
+
+</div>
+
+---
+
+## 🟨 About Me
 
 - 🐍 Comfortable with **Python, Machine Learning, AI frameworks, and Data Science**
 - ☕ Practicing **DSA with Java**
@@ -14,70 +22,76 @@ I'm a **Computer Science graduate specializing in AI & Machine Learning**, with 
 
 ---
 
-## 🌐 Connect With Me
+## 🟩 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayush-mishra231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ayush.mishra79825@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayush-mishra231/"><img src="https://img.shields.io/badge/LINKEDIN-282828?style=for-the-badge&logo=linkedin&logoColor=83A598&labelColor=3C3836" /></a>
+  <a href="mailto:ayush.mishra79825@gmail.com"><img src="https://img.shields.io/badge/EMAIL-282828?style=for-the-badge&logo=gmail&logoColor=FB4934&labelColor=3C3836" /></a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🟨 Tech Stack
 
 ### 🧠 Languages
+
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-282828?style=for-the-badge&logo=python&logoColor=FABD2F&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/JAVA-282828?style=for-the-badge&logo=openjdk&logoColor=FE8019&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-282828?style=for-the-badge&logo=javascript&logoColor=FABD2F&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5&logoColor=FB4934&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/CSS3-282828?style=for-the-badge&logo=css3&logoColor=83A598&labelColor=3C3836" />
 </p>
 
 ### 🤖 AI / ML & Data Science
+
 <p align="left">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/NUMPY-282828?style=for-the-badge&logo=numpy&logoColor=83A598&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/PANDAS-282828?style=for-the-badge&logo=pandas&logoColor=B8BB26&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-282828?style=for-the-badge&logo=scikit-learn&logoColor=FABD2F&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/SCIPY-282828?style=for-the-badge&logo=scipy&logoColor=83A598&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/OPENCV-282828?style=for-the-badge&logo=opencv&logoColor=FE8019&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/MLFLOW-282828?style=for-the-badge&logo=mlflow&logoColor=8EC07C&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/MATPLOTLIB-282828?style=for-the-badge&logo=matplotlib&logoColor=D3869B&labelColor=3C3836" />
 </p>
 
 ### ⚙️ Frameworks & Backend
+
 <p align="left">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FASTAPI-282828?style=for-the-badge&logo=fastapi&logoColor=8EC07C&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/FLASK-282828?style=for-the-badge&logo=flask&logoColor=EBDBB2&labelColor=3C3836" />
 </p>
 
 ### 🗄️ Databases
+
 <p align="left">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MONGODB-282828?style=for-the-badge&logo=mongodb&logoColor=B8BB26&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/MYSQL-282828?style=for-the-badge&logo=mysql&logoColor=83A598&labelColor=3C3836" />
 </p>
 
 ### ☁️ DevOps, Cloud & Tools
+
 <p align="left">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/DOCKER-282828?style=for-the-badge&logo=docker&logoColor=83A598&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/GIT-282828?style=for-the-badge&logo=git&logoColor=FB4934&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/GITHUB-282828?style=for-the-badge&logo=github&logoColor=EBDBB2&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/AZURE-282828?style=for-the-badge&logo=microsoftazure&logoColor=83A598&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/RENDER-282828?style=for-the-badge&logo=render&logoColor=8EC07C&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/GRAFANA-282828?style=for-the-badge&logo=grafana&logoColor=FE8019&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/PROMETHEUS-282828?style=for-the-badge&logo=prometheus&logoColor=FB4934&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/POWER%20BI-282828?style=for-the-badge&logo=powerbi&logoColor=FABD2F&labelColor=3C3836" />
 </p>
 
 ### 🎨 Other Tools
+
 <p align="left">
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+<img src="https://img.shields.io/badge/ANACONDA-282828?style=for-the-badge&logo=anaconda&logoColor=B8BB26&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/AFTER%20EFFECTS-282828?style=for-the-badge&logo=adobeaftereffects&logoColor=D3869B&labelColor=3C3836" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🟧 Featured Projects
 
 <table>
 <tr>
@@ -87,7 +101,12 @@ I'm a **Computer Science graduate specializing in AI & Machine Learning**, with 
 
 A multi-PDF conversational **Retrieval-Augmented Generation** web app. Upload documents, index them with ChromaDB, and chat with their contents using an LLM.
 
-**Tech:** `Python` `FastAPI` `LangChain` `ChromaDB` `Docker`
+<img src="https://img.shields.io/badge/Python-282828?style=flat-square&logo=python&logoColor=FABD2F&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/FastAPI-282828?style=flat-square&logo=fastapi&logoColor=8EC07C&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/LangChain-282828?style=flat-square&logoColor=B8BB26&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/ChromaDB-282828?style=flat-square&logoColor=D3869B&labelColor=3C3836" />
+
+<br><br>
 
 <a href="https://github.com/shinaycore/RAG">🔗 View Repository</a>
 
@@ -98,7 +117,12 @@ A multi-PDF conversational **Retrieval-Augmented Generation** web app. Upload do
 
 An educational **machine-learning decision-support project** for predicting whether an IVF trigger is recommended, with reproducible ML pipelines and MLOps tooling.
 
-**Tech:** `Python` `Flask` `DVC` `MLflow` `Feast` `Docker` `Prometheus` `Grafana`
+<img src="https://img.shields.io/badge/Python-282828?style=flat-square&logo=python&logoColor=FABD2F&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/Flask-282828?style=flat-square&logo=flask&logoColor=EBDBB2&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/DVC-282828?style=flat-square&logo=dvc&logoColor=83A598&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/MLflow-282828?style=flat-square&logo=mlflow&logoColor=8EC07C&labelColor=3C3836" />
+
+<br><br>
 
 <a href="https://github.com/shinaycore/IVF_Trigger_Day">🔗 View Repository</a>
 
@@ -109,7 +133,10 @@ An educational **machine-learning decision-support project** for predicting whet
 
 An AI-focused project for extracting useful insights from call data and turning conversations into structured, actionable information.
 
-**Tech:** `Python` `AI/ML`
+<img src="https://img.shields.io/badge/Python-282828?style=flat-square&logo=python&logoColor=FABD2F&labelColor=3C3836" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-282828?style=flat-square&logoColor=D3869B&labelColor=3C3836" />
+
+<br><br>
 
 <a href="https://github.com/shinaycore/Call-Insight">🔗 View Repository</a>
 
@@ -140,4 +167,8 @@ An AI-focused project for extracting useful insights from call data and turning 
 
 ---
 
-<p align="center"><i>Thanks for stopping by! ⭐</i></p>
+<div align="center">
+
+### 🟫 Thanks for stopping by! ⭐
+
+</div>
