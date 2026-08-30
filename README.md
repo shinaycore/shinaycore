@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:282828,50:3C3836,100:504945&text=AYUSH%20MISHRA&fontColor=FABD2F&fontSize=46&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Python%20%7C%20Developer&descAlignY=62&descSize=18&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:282828,50:3C3836,100:504945&text=SHINAYCORE&fontColor=FABD2F&fontSize=46&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Python%20%7C%20Developer&descAlignY=62&descSize=18&animation=twinkling" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=FABD2F&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ayush+Mishra+%F0%9F%91%8B;B.Tech+CSE+Graduate+%F0%9F%8E%93;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+things+with+Python+%F0%9F%90%8D;Turning+ideas+into+working+code+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 
