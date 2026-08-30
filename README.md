@@ -30,7 +30,7 @@
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/CJpbePCrkrErMnfdAV/giphy.gif" width="260" alt="Frieren anime GIF" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGo4YzNnb2E5anN2YTVrZmd6MDdtdmNsejhkbDkxZ3c0YWFqN280aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7G0bTiXfHM6mmuDYjx/giphy.gif" width="260" alt="Frieren anime GIF" />
 
 <sub>🌿 Frieren • code • coffee • anime</sub>
 
@@ -211,7 +211,7 @@ An AI-focused project for extracting useful insights from call data and turning 
 
 <div align="center">
 
-<img src="https://image-1.uhdpaper.com/wallpaper/frieren-sousou-no-frieren-anime-4k-wallpaper-uhdpaper.com-601%401%40n.jpg" width="760" alt="Frieren anime landscape" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWwxenAyOXlwdXJmNXUweHI1cDRndnU3c3Jjc3VrYXp1ZGQycHN1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7qgHViP0HFETNCwJZH/giphy.gif" width="760" alt="Frieren anime GIF" />
 
 ### 💬 Random Dev Quote
 
