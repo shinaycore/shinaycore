@@ -162,11 +162,25 @@ An AI-focused project for extracting useful insights from call data and turning 
 
 ---
 
-## 🐍 Contribution Activity
+## 🛠️ Currently Building
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shinaycore/shinaycore/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
+<div align="center">
+
+### `>_ turning caffeine into code...`
+
+```text
+╭──────────────────────────────────────────────╮
+│  STATUS                                      │
+│                                              │
+│  🧠 Learning        █████████░░  90%         │
+│  🛠️ Building        ████████░░░  80%         │
+│  🐛 Debugging       ██████████░  99%         │
+│  ☕ Caffeine        ███████████  110%        │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+</div>
 
 ---
 
