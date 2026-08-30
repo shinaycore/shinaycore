@@ -15,6 +15,10 @@
 
 ## 🟨 About Me
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 - 🐍 Comfortable with **Python, Machine Learning, AI frameworks, and Data Science**
 - ☕ Practicing **DSA with Java**
 - 🤖 Interested in **AI, Machine Learning & Data Science**
@@ -22,6 +26,17 @@
 - 💡 Enjoy solving real-world problems through code
 - 📚 Into **books, manga/manhwa & anime**
 - 🎮 Currently obsessed with **Hollow Knight: Silksong**
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/O0oQygeklvnX2/giphy.gif" width="260" alt="Anime aesthetic animation" />
+
+<sub>🎬 code • coffee • anime • repeat</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -151,13 +166,23 @@ An AI-focused project for extracting useful insights from call data and turning 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=shinaycore&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false" />
-<img height="180" src="https://streak-stats.demolab.com/?user=shinaycore&theme=gruvbox&hide_border=true" />
-</p>
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://github-readme-stats.shion.dev/api?username=shinaycore&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false" width="100%" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://streak-stats.demolab.com/?user=shinaycore&theme=gruvbox&hide_border=true" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shinaycore&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shinaycore&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="55%" />
 </p>
 
 ---
@@ -184,11 +209,15 @@ An AI-focused project for extracting useful insights from call data and turning 
 
 ---
 
-## 💬 Random Dev Quote
+<div align="center">
 
-<p align="center">
+<img src="https://media.giphy.com/media/O0oQygeklvnX2/giphy.gif" width="420" alt="Anime aesthetic animation" />
+
+### 💬 Random Dev Quote
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
-</p>
+
+</div>
 
 ---
 
