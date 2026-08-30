@@ -1,0 +1,93 @@
+name: Update Pinned Projects
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-pinned-projects:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile README
+        uses: actions/checkout@v4
+
+      - name: Fetch pinned repositories
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          query='query { viewer { pinnedItems(first: 6, types: REPOSITORY) { nodes { ... on Repository { name url description stargazerCount forkCount primaryLanguage { name } } } } } }'
+
+          curl -fsSL https://api.github.com/graphql \
+            -H "Authorization: bearer $GH_TOKEN" \
+            -H "Content-Type: application/json" \
+            --data "$(jq -nc --arg q "$query" '{query:$q}')" \
+            > pinned.json
+
+      - name: Update README project section
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          readme = Path("README.md")
+          text = readme.read_text()
+          data = json.loads(Path("pinned.json").read_text())
+
+          if data.get("errors"):
+              raise SystemExit(json.dumps(data["errors"], indent=2))
+
+          repos = data["data"]["viewer"]["pinnedItems"]["nodes"]
+
+          if not repos:
+              projects = "> 📌 No pinned repositories found."
+          else:
+              cards = []
+              for repo in repos:
+                  description = repo.get("description") or "No description provided."
+                  language = repo.get("primaryLanguage")
+                  language_text = language["name"] if language else ""
+                  meta = f"`{language_text}` · ⭐ {repo['stargazerCount']} · 🍴 {repo['forkCount']}" if language_text else f"⭐ {repo['stargazerCount']} · 🍴 {repo['forkCount']}"
+
+                  cards.append(
+                      f'''<table width="100%">
+          <tr>
+          <td width="50%" valign="top">
+
+          ### [{repo['name']}]({repo['url']})
+
+          {description}
+
+          **{meta}**
+
+          </td>
+          </tr>
+          </table>'''
+                  )
+
+              projects = "\n\n".join(cards)
+
+          start = "<!-- PINNED_PROJECTS_START -->"
+          end = "<!-- PINNED_PROJECTS_END -->"
+
+          if start not in text or end not in text:
+              raise SystemExit("README project markers were not found")
+
+          before, rest = text.split(start, 1)
+          _, after = rest.split(end, 1)
+          updated = before + start + "\n" + projects + "\n" + end + after
+
+          if updated != text:
+              readme.write_text(updated)
+          PY
+
+      - name: Commit README changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update pinned projects"
+          git push
